@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Downloaded model weights (auto-fetched on first run)
+models/*.task
+
+# Session output
+reports/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
