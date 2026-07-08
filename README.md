@@ -2,7 +2,7 @@
 
 You're on a video call, or halfway through a timed exam, and a notification pulls your eyes away for three seconds. It happens forty times an hour and nobody, not even you, has an honest sense of how present you actually were. ProcVision watches for exactly that, using nothing but a webcam and a face-landmark model: no keyboard logging, no browser snooping, just attention, the way a human proctor in the room would notice it, minus the fatigue of watching for hours straight.
 
-**[Try it live](https://procvision.vercel.app)**, it runs entirely in your browser, nothing is recorded or uploaded. Sit centered in the frame, in decent light, and it will start reading your attention within a couple of seconds.
+**[https://procvision.vercel.app](https://procvision.vercel.app)**, it runs entirely in your browser, nothing is recorded or uploaded. Sit centered in the frame, in decent light, and it will start reading your attention within a couple of seconds.
 
 This repository is the Python reference implementation the live demo is built from.
 
